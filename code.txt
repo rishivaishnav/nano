@@ -1,0 +1,7 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+cout<<"sample code";
+return 0;
+}
